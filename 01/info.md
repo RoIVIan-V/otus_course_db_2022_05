@@ -1,5 +1,5 @@
 ## Документация к БД
-___
+
 
 **[➤ Перейти к Схеме БД ](https://github.com/RoIVIan-V/otus_course_db_2022_05/blob/main/01/schema.md)**
 

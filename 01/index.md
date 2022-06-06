@@ -1,5 +1,5 @@
 ## Тема: Проектирование БД
-___
+
 ### Задача
 
 Спроектировать свою первую базу данных на курсе
@@ -16,7 +16,7 @@ ___
 Проект - Маркетплейс
 
 * [Схема](https://github.com/RoIVIan-V/otus_course_db_2022_05/blob/main/01/schema.md)
-* [Документация](https://github.com/RoIVIan-V/otus_course_db_2022_05/blob/main/info.md)
+* [Документация](https://github.com/RoIVIan-V/otus_course_db_2022_05/blob/main/01/info.md)
 * Репликации
 * Резервное копирование
 
