@@ -15,8 +15,8 @@ ___
 ### Решение
 Проект - Маркетплейс
 
-* [Схема](https://github.com/RoIVIan-V/otus_course_db_2022_05/01/schema.md)
-* [Документация](https://github.com/RoIVIan-V/otus_course_db_2022_05/info.md)
+* [Схема](https://github.com/RoIVIan-V/otus_course_db_2022_05/blob/main/01/schema.md)
+* [Документация](https://github.com/RoIVIan-V/otus_course_db_2022_05/blob/main/info.md)
 * Репликации
 * Резервное копирование
 
