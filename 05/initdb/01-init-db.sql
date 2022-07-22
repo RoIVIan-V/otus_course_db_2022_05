@@ -1,0 +1,9 @@
+-- create database marketplace_db;
+--
+-- create user superuser
+--     superuser
+--     createdb
+--     createrole
+--     replication
+--     bypassrls
+-- password '3c7f96432896b2bdedbf89917709bbf032956c229061653626454ca9327f4795';
